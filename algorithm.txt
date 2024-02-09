@@ -1,1 +1,17 @@
-THINK before you code...
+Welcome message
+Ask user which package they're subbed to, store in variable
+Ask user how much data they used this month, store in variable
+Initialize cost to 0
+If they picked green,
+    cost defaults to 49.99
+    first 2 gigs of data dont matter
+    remaining gigs add 15 to cost per gig
+    If they have a coupon and their cost is >= 75,
+        -20 from cost
+If they picked blue,
+    cost defaults to 70
+    first 4 gigs dont matter
+    remaining gigs add 10 to cost per gig
+If they picked purple,
+    cost is 99.95
+Output cost

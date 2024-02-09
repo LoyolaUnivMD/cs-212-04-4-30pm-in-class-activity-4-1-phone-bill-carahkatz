@@ -1,1 +1,24 @@
-Test cases go here. 
+TC 1
+Green
+10
+N
+$169.99
+
+TC 2
+Green
+10
+y
+$149.99
+
+TC 3
+bLue
+6.435
+$94.35
+
+TC 4
+purp
+purpppppple
+purrrrrrrrrrple
+purple
+1234567890
+$99.95
